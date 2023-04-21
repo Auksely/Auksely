@@ -4,6 +4,6 @@
 
 
 #  Connect with me :
-[LinkedIn](https://www.linkedin.com/auksely)
+[LinkedIn](https://www.linkedin.com/in/auksely/)
 
 
