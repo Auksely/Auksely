@@ -1,9 +1,9 @@
-### Hi, Hello, from Auksely ![HelloGIF](https://user-images.githubusercontent.com/66599004/233654244-1bab5d3d-6398-4627-967c-79be234023bc.gif)
+# Hi, Hello, from Auksely !
 
-# 🌱 I’m currently learning Front-End Development
+## 🌱 I’m currently learning Full-Stack 
 
 
-#  Connect with me :
+##  Connect with me :
 [LinkedIn](https://www.linkedin.com/in/auksely/)
 
 
